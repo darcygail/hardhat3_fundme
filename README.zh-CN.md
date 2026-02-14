@@ -163,8 +163,7 @@ event Withdrawn(address indexed to, uint256 amount);
 npx hardhat node
 
 # 部署（在另一个终端）
-npx hardhat ignition deploy ./ignition/modules/FundMe.ts --network localhost
-```
+npx hardhat ignition deploy ./ignition/modules/FundMe.ts --network localhost --parameters ignition/parameters/mockPriceFeed.json```
 
 ### 部署到 Sepolia
 

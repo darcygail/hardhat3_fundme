@@ -10,6 +10,8 @@
     "@types/node": "^22.19.11",
     "forge-std": "github:foundry-rs/forge-std#v1.9.4",
     "hardhat": "^3.1.7",
+    "prettier-plugin-solidity": "^2.2.1",
+    "solhint": "^6.0.3",
     "typescript": "~5.8.0",
     "viem": "^2.45.3"
   },

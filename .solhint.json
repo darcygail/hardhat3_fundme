@@ -1,0 +1,17 @@
+{
+  "extends": "solhint:recommended",
+  "rules": {
+    "max-line-length": ["error", 100],
+    "compiler-version": "off",
+    "use-natspec": "off",
+    "reason-string": "off",
+    "gas-custom-errors": "off",
+    "gas-small-strings": "off",
+    "gas-strict-inequalities": "warn",
+    "gas-indexed-events": "warn",
+    "state-visibility": "off",
+    "func-visibility": "off",
+    "func-name-mixedcase": "off",
+    "no-empty-blocks": "off"
+  }
+}
