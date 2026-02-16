@@ -23,6 +23,9 @@
 - ✅ **价格源集成**: 使用 Chainlink Data Feeds 实时转换 ETH/USD 价格
 - ✅ **事件日志**: 为捐赠和提取操作发出事件
 
+## 🖼️ 页面截图
+
+![FundMe Web UI](static/web.png)
 ## 🏗️ 项目结构
 
 ```

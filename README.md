@@ -23,6 +23,10 @@ A decentralized fundraising smart contract built with Solidity that allows users
 - ✅ **Price Feed Integration**: Real-time ETH/USD price conversion using Chainlink Data Feeds
 - ✅ **Event Logging**: Emits events for funding and withdrawal activities
 
+## 🖼️ Web UI Screenshot
+
+![FundMe Web UI](static/web.png)
+
 ## 🏗️ Project Structure
 
 ```
